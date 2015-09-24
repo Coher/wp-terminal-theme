@@ -1,0 +1,1 @@
+Theme for Wordpress which looks like terminal.
